@@ -25,7 +25,8 @@
 [<img align="left" alt="" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />](https://www.tensorflow.org/)
 [<img align="left" alt="" width="26px" src="https://juststickers.in/wp-content/uploads/2019/01/flutter.png" />](https://flutter.dev/)
 [<img align="left" alt="" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/dart-logo-png-transparent.png" />](https://dart.dev/)
-[<img align="left" alt="" width="26px" src="https://library.kissclipart.com/20180927/ajq/kissclipart-c-c-icon-clipart-the-c-programming-language-th-d64c93203a84b298.jpg" />](https://dart.dev/)
+[<img align="left" alt="" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />]()
+[<img align="left" alt="" width="26px" src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" />]()
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
