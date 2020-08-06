@@ -21,12 +21,14 @@
 ### Languages and Tools:
 
 [<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRh90wirAQh8drxqLznbFUPjEKQOFWjaID82g&usqp=CAU" />](https://www.anaconda.com/)
 [<img align="left" alt="" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />](https://www.python.org/)
 [<img align="left" alt="" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />](https://www.tensorflow.org/)
 [<img align="left" alt="" width="26px" src="https://juststickers.in/wp-content/uploads/2019/01/flutter.png" />](https://flutter.dev/)
 [<img align="left" alt="" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/dart-logo-png-transparent.png" />](https://dart.dev/)
 [<img align="left" alt="" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />]()
 [<img align="left" alt="" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2gX3r_zEwIDzD9VnrYFENa68BITcIZBvCjQ&usqp=CAU" />]()
+[<img align="left" alt="" width="26px" src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" />](https://www.java.com/en/)
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
