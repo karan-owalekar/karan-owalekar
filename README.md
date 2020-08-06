@@ -22,6 +22,7 @@
 
 [<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="" width="100px" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" />](https://www.python.org/)
+[<img align="left" alt="" width="100px" src="https://venturebeat.com/wp-content/uploads/2019/02/google-flutter-logo-white.png?w=1600&strip=all" />](https://flutter.dev/)
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
