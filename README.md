@@ -1,4 +1,4 @@
-## Hi there, I'm <font size=40 color=Blue>_**Karan Owalekar**_</font> 👋
+## Hi there, I'm Karan <font size=100 color=Blue>_**Owalekar**_</font> 👋
 
 [<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]("")
 
