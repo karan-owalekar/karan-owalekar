@@ -1,5 +1,9 @@
-## Hi there, I'm Karan Owalekar 👋
+## Hi there, I'm Karan <font size=30 color=Blue>_**Owalekar**_</font> 👋
+
 [<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]("")
+
+<br />
+<br />
 
 ### I'm a Developer, Editor, and ML Enthusiast!
 - 🔭 I’m currently working on my website! 💻
