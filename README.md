@@ -7,11 +7,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="karan-owalekar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="KaranOwalekar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="_.k_a_r_a_n.__ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="karan_owalekar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+[<img align="left" alt="LinkedIn width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/karan-owalekar/)
+[<img align="left" alt="HackerRank width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hackerrank.svg" />](https://www.hackerrank.com/KaranOwalekar)
+[<img align="left" alt="Instagram width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_.k_a_r_a_n.__/)
+[<img align="left" alt="Twitter width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/karan_owalekar)
 
 <br />
 
