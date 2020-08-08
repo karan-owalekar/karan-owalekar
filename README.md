@@ -1,8 +1,8 @@
 # Hi there, I'm Karan Owalekar 👋
-<img src="https://media.giphy.com/media/h4wcTPQspvF2hi92FB/giphy.gif" width=40 height=40> 
+<img src="https://media.giphy.com/media/h4wcTPQspvF2hi92FB/giphy.gif" width=100 height=100> 
 
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhjaVNPq-D7EwsOMJ0zjyJ-fNf7vgDtSzQdg&usqp=CAU" width=40 height=40>]("")
-[<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]("")
+[<p float=left><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhjaVNPq-D7EwsOMJ0zjyJ-fNf7vgDtSzQdg&usqp=CAU" width=10 height=10 align=left>
+<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></p>]("")
 
 <br />
 
