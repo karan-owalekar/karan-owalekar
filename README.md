@@ -1,7 +1,7 @@
 # Hi there, I'm Karan Owalekar 👋
-<img src="https://media.giphy.com/media/h4wcTPQspvF2hi92FB/giphy.gif" width=80 height=80>
 
-&nbsp; &nbsp; [<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]("")
+
+<img src="https://media.giphy.com/media/2ALKrUFE8GxqpDbcdQ/giphy.gif" width=80 height=80> [<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]("")
 
 
 <br />
