@@ -1,6 +1,7 @@
 # Hi there, I'm Karan Owalekar 👋
 <img src="https://media.giphy.com/media/h4wcTPQspvF2hi92FB/giphy.gif" width=40 height=40> 
 
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhjaVNPq-D7EwsOMJ0zjyJ-fNf7vgDtSzQdg&usqp=CAU" width=40 height=40>]("")
 [<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]("")
 
 <br />
