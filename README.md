@@ -1,8 +1,11 @@
 # Hi there, I'm Karan Owalekar 👋
 <img src="https://media.giphy.com/media/h4wcTPQspvF2hi92FB/giphy.gif" width=90 height=90> 
 
-<p float=left><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhjaVNPq-D7EwsOMJ0zjyJ-fNf7vgDtSzQdg&usqp=CAU" width=10 height=10 align=left>
-<img align="left" alt="" width="30px" src="https://user-images.githubusercontent.com/68480967/89739491-b08dea80-da9e-11ea-94fc-526a8780ce8b.png" /></p>
+<p float=left>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhjaVNPq-D7EwsOMJ0zjyJ-fNf7vgDtSzQdg&usqp=CAU" width=10 height=10 align=left>
+  [<img align="left" alt="" width="30px" src="https://f0.pngfuel.com/png/621/487/website-development-world-wide-web-internet-computer-icons-web-standards-government-services-png-clip-art.png" />](https://karan-owalekar.web.app/#/)
+</p>
+
 <br />
 
 #### I'm a Developer, Editor, and ML Enthusiast!
