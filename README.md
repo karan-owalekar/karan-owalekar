@@ -6,7 +6,7 @@
 
 <br />
 
-#### I'm a Developer, Editor, and ML Enthusiast!
+#### I'm a Developer, ML Enthusiast, and Editor!
 - 🔭 I’m currently working on my website! 💻
 - 🌱 I’m currently learning everything.🤣🤣🤣
 - ⚡ Fun fact: I love to stay fit.🏋🏻‍♂️
