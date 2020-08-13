@@ -5,6 +5,7 @@
 [<img align="left" alt="" width="40px" src="https://cdn4.iconfinder.com/data/icons/business-finance-1-1/128/world-wide-web-visit-512.png" />](https://karan-owalekar.web.app/#/)
 
 <br />
+<br />
 
 #### I'm a Developer, ML Enthusiast, and Editor!
 - 🔭 I’m currently working on my final year project! 💻
