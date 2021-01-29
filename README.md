@@ -16,7 +16,7 @@
 
 [<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106255759-71b44280-6240-11eb-910d-4b9f0381e0b8.png"/>](https://www.linkedin.com/in/karan-owalekar/)
 [<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106256467-5433a880-6241-11eb-8243-f09a95134b8a.png"/>](https://stackoverflow.com/users/13592012/karan-owalekar)
-[<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106256727-a70d6000-6241-11eb-9fc4-0f6980cce54a.png" />](https://www.hackerrank.com/KaranOwalekar)\
+[<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106256727-a70d6000-6241-11eb-9fc4-0f6980cce54a.png" />](https://www.hackerrank.com/KaranOwalekar)
 [<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106257501-a1fce080-6242-11eb-85ac-1e8bdacb2e44.png" />](https://twitter.com/karan_owalekar)
 [<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106256937-edfb5580-6241-11eb-960a-9c22a6ecbc5a.png" />](https://www.instagram.com/_.k_a_r_a_n.__/)
 
