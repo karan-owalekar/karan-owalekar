@@ -14,11 +14,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106255759-71b44280-6240-11eb-910d-4b9f0381e0b8.png"/>](https://www.linkedin.com/in/karan-owalekar/)
-[<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106256467-5433a880-6241-11eb-8243-f09a95134b8a.png"/>](https://stackoverflow.com/users/13592012/karan-owalekar)
-[<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106256727-a70d6000-6241-11eb-9fc4-0f6980cce54a.png" />](https://www.hackerrank.com/KaranOwalekar)
-[<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106257501-a1fce080-6242-11eb-85ac-1e8bdacb2e44.png" />](https://twitter.com/karan_owalekar)
-[<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106256937-edfb5580-6241-11eb-960a-9c22a6ecbc5a.png" />](https://www.instagram.com/_.k_a_r_a_n.__/)
+[<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106260151-15542180-6246-11eb-823f-fd9f789a6600.png"/>](https://www.linkedin.com/in/karan-owalekar/)
+[<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106260135-1422f480-6246-11eb-91b1-8c8a5738645f.png"/>](https://stackoverflow.com/users/13592012/karan-owalekar)
+[<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106260141-1422f480-6246-11eb-9938-2b1b000b3da1.png" />](https://www.hackerrank.com/KaranOwalekar)
+[<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106260148-15542180-6246-11eb-996d-13ce12d3f42e.png" />](https://twitter.com/karan_owalekar)
+[<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106260126-12593100-6246-11eb-950e-26833d210a25.png" />](https://www.instagram.com/_.k_a_r_a_n.__/)
 
 <br />
 
