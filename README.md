@@ -30,7 +30,7 @@
 [<img align="left" alt="" width="26px" src="https://img.pngio.com/buy-adobe-education-contact-multiblue-and-receive-discounts-for-is-there-png-in-adobe-illustrator-600_600.png" />](https://www.adobe.com/in/products/illustrator.html?gclid=CjwKCAjw1K75BRAEEiwAd41h1OHxzML0Gt0vdVuSznO69fEidwRTn23Um0M6yxlY5XGhpmJsHQ9gtxoC64UQAvD_BwE&sdid=SBNHMR64&mv=search&ef_id=CjwKCAjw1K75BRAEEiwAd41h1OHxzML0Gt0vdVuSznO69fEidwRTn23Um0M6yxlY5XGhpmJsHQ9gtxoC64UQAvD_BwE:G:s&s_kwcid=AL!3085!3!248235017204!e!!g!!illustrator%20adobe!221170148!17525612948)
 [<img align="left" alt="" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />](https://www.python.org/)
 [<img align="left" alt="" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />](https://www.tensorflow.org/)
-[<img align="left" alt="" width="26px" src="https://juststickers.in/wp-content/uploads/2019/01/flutter.png" />](https://flutter.dev/)
+[<img align="left" alt="" width="26px" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" />](https://flutter.dev/)
 [<img align="left" alt="" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/dart-logo-png-transparent.png" />](https://dart.dev/)
 [<img align="left" alt="" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />]()
 [<img align="left" alt="" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />]()
