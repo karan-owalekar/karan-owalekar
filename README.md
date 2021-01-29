@@ -1,7 +1,7 @@
 # Hi there, I'm Karan Owalekar 👋
 <img src="https://media.giphy.com/media/h4wcTPQspvF2hi92FB/giphy.gif" width=90 height=90> 
 
-[<img align="left" alt="" width="5px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" />](https://karan-owalekar.web.app/#/)
+[<img align="left" alt="" width="4px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" />](https://karan-owalekar.web.app/#/)
 [<img align="left" alt="" width="40px" src="https://cdn4.iconfinder.com/data/icons/business-finance-1-1/128/world-wide-web-visit-512.png" />](https://karan-owalekar.web.app/#/)
 
 <br />
