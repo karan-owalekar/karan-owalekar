@@ -14,8 +14,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://assets.stickpng.com/images/58e91afdeb97430e81906504.png"/>](https://www.linkedin.com/in/karan-owalekar/)
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg"/>](https://stackoverflow.com/users/13592012/karan-owalekar)
+[<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106255759-71b44280-6240-11eb-910d-4b9f0381e0b8.png"/>](https://www.linkedin.com/in/karan-owalekar/)
+[<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106256059-d1125280-6240-11eb-88a4-4a5bd6de87e5.png"/>](https://stackoverflow.com/users/13592012/karan-owalekar)
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hackerrank.svg" />](https://www.hackerrank.com/KaranOwalekar)
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_.k_a_r_a_n.__/)
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/karan_owalekar)
