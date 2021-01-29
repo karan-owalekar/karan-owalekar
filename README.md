@@ -44,5 +44,5 @@
 
 ---
 
-<img align="left" alt="Karan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karan-owalekar&show_icons=true&hide_border=true&theme=buefy " />
-<img align="left" alt="Karan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-owalekar&show_icons=true&hide_border=true&theme=buefy" />
+<img align="left" alt="Karan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karan-owalekar&show_icons=true&hide_border=true&theme=buefy " ?theme=tokyonight/>
+<img align="left" alt="Karan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-owalekar&show_icons=true&hide_border=true&theme=buefy" ?theme=tokyonight/>
