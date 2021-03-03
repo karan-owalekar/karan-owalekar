@@ -1,9 +1,7 @@
 # Hi there, I'm Karan Owalekar 👋
 ![github2](https://user-images.githubusercontent.com/68480967/109787931-c2023400-7c34-11eb-8fca-b83072b41f68.png)
 
-<img src="https://media.giphy.com/media/h4wcTPQspvF2hi92FB/giphy.gif" width=90 height=90> 
 
-[<img align="left" alt="" width="4px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" />](https://karan-owalekar.web.app/#/)
 [<img align="left" alt="" width="40px" src="https://user-images.githubusercontent.com/68480967/106253825-07020780-623e-11eb-9f7b-9455c67845a2.png" />](https://karan-owalekar.web.app/#/)
 
 <br />
