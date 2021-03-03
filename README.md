@@ -1,4 +1,4 @@
-## Hi there,
+### Hi there,
 # I'm Karan Owalekar 👋
 ![github2](https://user-images.githubusercontent.com/68480967/109789377-4903dc00-7c36-11eb-8844-d407f1c312c7.png)
 
