@@ -1,5 +1,6 @@
-# Hi there, I'm Karan Owalekar 👋
-![github2](https://user-images.githubusercontent.com/68480967/109787931-c2023400-7c34-11eb-8fca-b83072b41f68.png)
+## Hi there,
+# I'm Karan Owalekar 👋
+![github2](https://user-images.githubusercontent.com/68480967/109789377-4903dc00-7c36-11eb-8844-d407f1c312c7.png)
 
 
 [<img align="left" alt="" width="100px" height="4px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" />](https://karan-owalekar.web.app/#/)
