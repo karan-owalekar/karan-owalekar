@@ -1,5 +1,5 @@
 # Hi there, I'm Karan Owalekar 👋
-![github2](https://user-images.githubusercontent.com/68480967/109786506-3b008c00-7c33-11eb-8b3b-4366dff5e87d.png)
+![github2](https://user-images.githubusercontent.com/68480967/109787931-c2023400-7c34-11eb-8fca-b83072b41f68.png)
 
 <img src="https://media.giphy.com/media/h4wcTPQspvF2hi92FB/giphy.gif" width=90 height=90> 
 
