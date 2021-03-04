@@ -47,8 +47,8 @@
 ---
 
 ::if ctx.theme == “dark”
-<img align="left" alt="Karan's Github Stats" height=175px src="https://github-readme-stats.vercel.app/api?username=karan-owalekar&show_icons=true&hide_border=true&theme=tokyonight " />
-<img align="left" alt="Karan's Github Stats" height=175px src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-owalekar&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="left" alt="Karan's Github Stats" height=175px src="https://github-readme-stats.vercel.app/api?username=karan-owalekar&show_icons=true&hide_border=true&theme=tokyonight " />
+  <img align="left" alt="Karan's Github Stats" height=175px src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-owalekar&show_icons=true&hide_border=true&theme=tokyonight" />
 ::else
-<img align="left" alt="Karan's Github Stats" height=175px src="https://github-readme-stats.vercel.app/api?username=karan-owalekar&show_icons=true&hide_border=true&theme=vue" />
-<img align="left" alt="Karan's Github Stats" height=175px src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-owalekar&show_icons=true&hide_border=true&theme=vue" />
+  <img align="left" alt="Karan's Github Stats" height=175px src="https://github-readme-stats.vercel.app/api?username=karan-owalekar&show_icons=true&hide_border=true&theme=vue" />
+  <img align="left" alt="Karan's Github Stats" height=175px src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-owalekar&show_icons=true&hide_border=true&theme=vue" />
