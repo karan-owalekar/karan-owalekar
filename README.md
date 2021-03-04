@@ -48,7 +48,7 @@
 
 ---
 
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaran-owalekar&count_bg=%2300DD89&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/karan-owalekar)
+[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaran-owalekar&count_bg=%2338BCAD&title_bg=%231A1B27&icon=tripadvisor.svg&icon_color=%23E7E7E7&title=Profile+Views++&edge_flat=false)](https://github.com/karan-owalekar)
 
 <img align="left" alt="Karan's Github Stats" height=175px src="https://github-readme-stats.vercel.app/api?username=karan-owalekar&show_icons=true&hide_border=true&theme=tokyonight " />
 <img align="left" alt="Karan's Github Stats" height=175px src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-owalekar&show_icons=true&hide_border=true&theme=tokyonight" />
