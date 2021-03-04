@@ -14,6 +14,12 @@
 - 🌱 I’m currently learning everything.🤣🤣🤣
 - ⚡ Fun fact: I love to stay fit.🏋🏻‍♂️
 
+<br />
+
+[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaran-owalekar&count_bg=%23FF2E7C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/karan-owalekar)
+
+[![Website Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkaran-owalekar.web.app&count_bg=%233DC8BE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Website+Views&edge_flat=false)](https://karan-owalekar.web.app/#/)
+
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106260151-15542180-6246-11eb-823f-fd9f789a6600.png"/>](https://www.linkedin.com/in/karan-owalekar/)
