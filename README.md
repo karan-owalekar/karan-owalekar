@@ -28,6 +28,7 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />]()
 [<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="" width="26px" src="https://user-images.githubusercontent.com/68480967/106250537-c6a08a80-6239-11eb-9829-926b54b3ae2d.png" />](https://www.anaconda.com/)
 [<img align="left" alt="" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTozpDAY82-mtxcsu4tZPhzgAnpLOhifxRBFg&usqp=CAU" />](https://www.adobe.com/in/products/photoshop.html?gclid=CjwKCAjw1K75BRAEEiwAd41h1Oc2e4chxmX7JpYKZbTqlxYQX-RjlAMvqFW5v_FnqUC1nmRpLjzcQRoCGN0QAvD_BwE&sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjw1K75BRAEEiwAd41h1Oc2e4chxmX7JpYKZbTqlxYQX-RjlAMvqFW5v_FnqUC1nmRpLjzcQRoCGN0QAvD_BwE:G:s&s_kwcid=AL!3085!3!444587836691!e!!g!!photoshop!221441588!17534749028)
@@ -41,7 +42,6 @@
 [<img align="left" alt="" width="26px" src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" />](https://www.java.com/en/)
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
