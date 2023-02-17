@@ -22,7 +22,7 @@
 [<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106260135-1422f480-6246-11eb-91b1-8c8a5738645f.png"/>](https://stackoverflow.com/users/13592012/karan-owalekar)
 [<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106260141-1422f480-6246-11eb-9938-2b1b000b3da1.png" />](https://www.hackerrank.com/KaranOwalekar)
 [<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106260148-15542180-6246-11eb-996d-13ce12d3f42e.png" />](https://twitter.com/karan_owalekar)
-[<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106260126-12593100-6246-11eb-950e-26833d210a25.png" />](https://www.instagram.com/_.k_a_r_a_n.__/)
+[<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106260126-12593100-6246-11eb-950e-26833d210a25.png" />](https://www.instagram.com/karan.owalekar/)
 
 <br />
 
