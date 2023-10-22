@@ -1,27 +1,20 @@
 ### Hi there,
 # I'm Karan Owalekar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![github2](https://user-images.githubusercontent.com/68480967/109789377-4903dc00-7c36-11eb-8844-d407f1c312c7.png)
+<img align="left" src="https://github.com/karan-owalekar/karan-owalekar/assets/68480967/f5914d8c-4567-4210-b198-1c2517f5557c" width="350">
 
 
-[<img align="left" alt="" width="100px" height="4px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" />](https://karan-owalekar.web.app/#/)
-[<img align="left" alt="" width="40px" src="https://user-images.githubusercontent.com/68480967/106253825-07020780-623e-11eb-9f7b-9455c67845a2.png" />](https://karan-owalekar.web.app/#/)
-
-<br />
-<br />
-
-#### I'm a Developer, ML Enthusiast, and Editor!
-- 🔭 I’m currently working on my freelance project! 💻
-- 🌱 I’m currently learning everything.🤣🤣🤣
+### I'm a Researcher and Machine Learning Engineer!
+- 🔭 I’m currently a Masters student at University of Southern California! 💻
+- 🌱 I’m currently Artificial Intelligence.🤣🤣🤣
 - ⚡ Fun fact: I love to stay fit.🏋🏻‍♂️
 
 
 
 ### Connect with me:
-
+[<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106253825-07020780-623e-11eb-9f7b-9455c67845a2.png"/>](https://karan-owalekar.web.app/)
 [<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106260151-15542180-6246-11eb-823f-fd9f789a6600.png"/>](https://www.linkedin.com/in/karan-owalekar/)
 [<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106260135-1422f480-6246-11eb-91b1-8c8a5738645f.png"/>](https://stackoverflow.com/users/13592012/karan-owalekar)
 [<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106260141-1422f480-6246-11eb-9938-2b1b000b3da1.png" />](https://www.hackerrank.com/KaranOwalekar)
-[<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106260148-15542180-6246-11eb-996d-13ce12d3f42e.png" />](https://twitter.com/karan_owalekar)
 [<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106260126-12593100-6246-11eb-950e-26833d210a25.png" />](https://www.instagram.com/karan.owalekar/)
 
 <br />
@@ -50,6 +43,5 @@
 
 [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaran-owalekar&count_bg=%2338BCAD&title_bg=%231A1B27&icon=tripadvisor.svg&icon_color=%23E7E7E7&title=Profile+Views++&edge_flat=false)](https://github.com/karan-owalekar)
 
-<img align="left" alt="Karan's Github Stats" height=200px src="https://github-readme-stats.vercel.app/api?username=karan-owalekar&show_icons=true&hide_border=true&theme=tokyonight " />
 <img align="left" alt="Karan's Github Stats" height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-owalekar&show_icons=true&hide_border=true&theme=tokyonight" />
 
