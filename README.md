@@ -5,7 +5,7 @@
 
 ### I'm a Researcher and Machine Learning Engineer!
 - 🔭 I’m currently a Masters student at University of Southern California! 💻
-- 🌱 I’m currently Artificial Intelligence.🤣🤣🤣
+- 🌱 I’m currently studying Artificial Intelligence.
 - ⚡ Fun fact: I love to stay fit.🏋🏻‍♂️
 
 
