@@ -4,11 +4,14 @@
 
 
 ### I'm a Researcher and Machine Learning Engineer!
+<br />
+
 - 🔭 I’m currently a Masters student at University of Southern California! 💻
 - 🌱 I’m currently studying Artificial Intelligence.
 - ⚡ Fun fact: I love to stay fit.🏋🏻‍♂️
 
 
+<br />
 
 ### Connect with me:
 [<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106253825-07020780-623e-11eb-9f7b-9455c67845a2.png"/>](https://karan-owalekar.web.app/)
@@ -17,6 +20,7 @@
 [<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106260141-1422f480-6246-11eb-9938-2b1b000b3da1.png" />](https://www.hackerrank.com/KaranOwalekar)
 [<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/68480967/106260126-12593100-6246-11eb-950e-26833d210a25.png" />](https://www.instagram.com/karan.owalekar/)
 
+<br />
 <br />
 <br />
 
