@@ -1,6 +1,6 @@
 ### Hi there,
 # I'm Karan Owalekar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img align="left" src="https://github.com/karan-owalekar/karan-owalekar/assets/68480967/f5914d8c-4567-4210-b198-1c2517f5557c" width="350">
+<img align="left" src="https://github.com/user-attachments/assets/577bd56c-6912-4d27-bdc6-c18fc210fdfa" width="350">
 
 
 ### I'm a Researcher and Machine Learning Engineer!
