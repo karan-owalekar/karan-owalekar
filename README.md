@@ -6,9 +6,11 @@
 ### I'm a Researcher and Machine Learning Engineer!
 <br />
 
-- 🔭 I’m currently a Masters student at University of Southern California! 💻
-- 🌱 I’m currently studying Artificial Intelligence.
-- ⚡ Fun fact: I love to stay fit.🏋🏻‍♂️
+- 🔭 Master's student at USC specializing in AI and Robotics.
+- 💻 Working on robotic manipulation, motion planning, and leveraging LLMs for robotics.
+- 🎯 Projects: AirWrite, Face Unlock, AR Masks, Deep Fake, and Voxel Path Planning.
+- ⚡ Fun fact: I love staying fit with weight training, hiking, and table tennis.
+
 
 
 <br />
