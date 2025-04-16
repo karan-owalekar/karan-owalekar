@@ -17,7 +17,7 @@ My work focuses on robotic manipulation, motion planning, and leveraging large l
 
 ### 🔗 Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-karan--owalekar.web.app-blue?style=flat&logo=google-chrome)](https://karan-owalekar.web.app/)
+[![Website](https://img.shields.io/badge/Website-karan--owalekar.web.app-11245e?style=flat&logo=google-chrome)](https://karan-owalekar.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan%20Owalekar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karan-owalekar/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-Karan%20Owalekar-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/13592012/karan-owalekar)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Karan%20Owalekar-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/KaranOwalekar)
