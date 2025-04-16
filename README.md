@@ -43,9 +43,8 @@ My work focuses on robotic manipulation, motion planning, and leveraging large l
 
 ### 📈 GitHub Stats
 
-![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karan-owalekar&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karan-owalekar&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=karan-owalekar&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-owalekar&layout=compact&theme=tokyonight&card_height=200" />
 
 ---
 
